@@ -1,0 +1,18 @@
+# Symmetric Binary Tree Checker
+
+This project checks whether a binary tree is **symmetric** around its center using C++.
+
+---
+
+## Problem
+
+A binary tree is symmetric if the left subtree is a mirror reflection of the right subtree.  
+
+- Example symmetric tree:
+
+```
+    1
+   / \
+  2   2
+ / \ / \
+3  4 4  3
